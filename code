@@ -1,0 +1,1 @@
+ffmpeg -hwaccel cuvid -vcodec h264_cuvid -i xx.mp4  -vcodec hevc_nvenc -crf 20 -preset slow -acodec copy xx.mp4
