@@ -1,0 +1,2 @@
+# NVENC
+将H264编码的视频通过Nvidia的Nvenc加速编码转换成HEVC编码
